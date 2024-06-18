@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jmgri\LaunchCodeRepos\LC C#\chapter-13\reading\HelloASPDotNet
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/jmgri/LaunchCodeRepos/LC C\#/chapter-13/reading/HelloASPDotNet/Views/Hello/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmgri/LaunchCodeRepos/LC C\#/chapter-13/reading/HelloASPDotNet/Views/Hello/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cV2VsY29tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jmgri/LaunchCodeRepos/LC C\#/chapter-13/reading/HelloASPDotNet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
